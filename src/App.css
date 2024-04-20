@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.card{
+  transition: all 0.3s;
+  margin: 0 2vw;
+}
+
+.card:hover{
+  transform: scale(1.15);
+}
+.imgcd{
+  height: 10vw;
+}
+.toph{
+  margin-top: 6vw;
+}
+/* .hiii{
+  display: none;
+} */
